@@ -31,6 +31,9 @@
 <br/>
 
 <h2 align="center">🏷️ Professional Badges</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=📱%20Android%20%7C%20🍎%20iOS%20%7C%20🪟%20Windows&fontSize=16&animation=pulse" alt="Platforms Header" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Supported-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff" alt="Android" />
@@ -48,6 +51,9 @@
 <br/>
 
 <h2 align="center">✨ Hero Section</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=Free%20%E2%80%A2%20Private%20%E2%80%A2%20Offline&fontSize=20&animation=twinkling" alt="Hero Section Header" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&color=00000000&text=Free%20%E2%80%A2%20Private%20%E2%80%A2%20Offline&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Android,%20iOS,%20Windows%20—%20No%20Tracking%20|%20No%20Limits&descAlignY=78&descSize=18" alt="Hero Animated Banner" />
@@ -66,6 +72,9 @@
 <br/>
 
 <h2 align="center">📊 Repository Dashboard</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=Real-time%20Stats%20Dashboard&fontSize=18&animation=twinkling" alt="Dashboard Header" />
+</p>
 
 <table align="center">
   <tr>
@@ -119,6 +128,9 @@
 <br/>
 
 <h2>🧩 About</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🧩%20About%20Section&fontSize=16&animation=pulse" alt="About Header" />
+</p>
 
 Flaxixy Boy is a privacy-first application publisher dedicated to free Android, iOS, and Windows software. Every application is designed with local SQL storage, offline support, and a commitment to keeping user data on-device.
 
@@ -127,6 +139,9 @@ We believe modern software should be beautiful, fast, and respectful of users. T
 <br/>
 
 <h2>💎 Why Choose Flaxixy Boy</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=💎%20Why%20Choose%20Us&fontSize=16&animation=twinkling" alt="Why Choose Header" />
+</p>
 
 <table>
   <tr>
@@ -162,6 +177,9 @@ We believe modern software should be beautiful, fast, and respectful of users. T
 <br/>
 
 <h2>🚀 Features</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🚀%20Key%20Features&fontSize=16&animation=twinkling" alt="Features Header" />
+</p>
 
 - 🔒 Local SQL database storage.
 - 📴 No analytics.
@@ -197,6 +215,9 @@ We believe modern software should be beautiful, fast, and respectful of users. T
 <br/>
 
 <h2>🧮 Supported Platforms</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🧮%20Platform%20Support&fontSize=16&animation=twinkling" alt="Platforms Header" />
+</p>
 
 <table>
   <tr>
@@ -232,39 +253,26 @@ We believe modern software should be beautiful, fast, and respectful of users. T
 <br/>
 
 <h2>📥 Download Center</h2>
-
 <p align="center">
-  <a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/Download%20Latest-All%20Platforms-0ea5e9?style=for-the-badge&logo=github&logoColor=ffffff" alt="Download Latest" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=📥%20Download%20Now&fontSize=16&animation=twinkling" alt="Download Header" />
 </p>
 
 <table>
   <tr>
     <td align="center">
-
-### 🤖 Android
-
-<a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/Download-APK-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff" alt="Android APK" /></a>
-
-Free Android builds available in Releases.
-
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0f172a,100:3ddc84&fontColor=ffffff&text=🤖%20Android&fontSize=18&animation=pulse" alt="Android Header" /><br/>
+      <a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/Download-APK-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff" alt="Android APK" /></a>
+      <p>Free Android builds available in Releases.</p>
     </td>
     <td align="center">
-
-### 🍎 iOS
-
-<a href="#installation-ios"><img src="https://img.shields.io/badge/Install-iOS-000000?style=for-the-badge&logo=apple&logoColor=ffffff" alt="iOS" /></a>
-
-Install through the documented iOS distribution method.
-
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0f172a,100:000000&fontColor=ffffff&text=🍎%20iOS&fontSize=18&animation=pulse" alt="iOS Header" /><br/>
+      <a href="#installation-ios"><img src="https://img.shields.io/badge/Install-iOS-000000?style=for-the-badge&logo=apple&logoColor=ffffff" alt="iOS" /></a>
+      <p>Install through the documented iOS distribution method.</p>
     </td>
     <td align="center">
-
-### 🪟 Windows
-
-<a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/Download-EXE%2FMSIX-0078d4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows" /></a>
-
-Native Windows builds are available in Releases.
-
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0f172a,100:0078d4&fontColor=ffffff&text=🪟%20Windows&fontSize=18&animation=pulse" alt="Windows Header" /><br/>
+      <a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/Download-EXE%2FMSIX-0078d4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows" /></a>
+      <p>Native Windows builds are available in Releases.</p>
     </td>
   </tr>
 </table>
@@ -272,6 +280,9 @@ Native Windows builds are available in Releases.
 <br/>
 
 <h2>🖼 Screenshots Gallery</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🖼%20App%20Screenshots&fontSize=16&animation=twinkling" alt="Screenshots Header" />
+</p>
 
 <table>
   <tr>
@@ -289,19 +300,22 @@ Native Windows builds are available in Releases.
 <br/>
 
 <h2>🧩 Installation</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🧩%20Installation%20Guide&fontSize=16&animation=twinkling" alt="Installation Header" />
+</p>
 
-<h3 id="installation-android">🤖 Android</h3>
+<h3 id="installation-android"><img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:0f172a,100:3ddc84&fontColor=ffffff&text=🤖%20Android&fontSize=18&animation=twinkling" alt="Android Installation" /></h3>
 1. Open the [Releases page](https://github.com/flaxixyboy/Flax_Apps/releases/latest).
 2. Download the latest APK.
 3. Enable "Install from unknown sources" if needed.
 4. Install and launch the app.
 
-<h3 id="installation-ios">🍎 iOS</h3>
+<h3 id="installation-ios"><img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:0f172a,100:000000&fontColor=ffffff&text=🍎%20iOS&fontSize=18&animation=twinkling" alt="iOS Installation" /></h3>
 1. Check the distribution method in the app documentation.
 2. Install via TestFlight, IPA sideloading, or local build workflow.
 3. Launch the app and complete first-time setup.
 
-<h3 id="installation-windows">🪟 Windows</h3>
+<h3 id="installation-windows"><img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:0f172a,100:0078d4&fontColor=ffffff&text=🪟%20Windows&fontSize=18&animation=twinkling" alt="Windows Installation" /></h3>
 1. Open the [latest release](https://github.com/flaxixyboy/Flax_Apps/releases/latest).
 2. Download the EXE, MSIX, or ZIP package.
 3. Run the installer or extract the portable build.
@@ -310,6 +324,9 @@ Native Windows builds are available in Releases.
 <br/>
 
 <h2>🛡 Privacy Policy</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🛡%20Privacy%20Policy&fontSize=16&animation=twinkling" alt="Privacy Header" />
+</p>
 
 - ✅ No personal data is collected.
 - ✅ No analytics are used.
@@ -320,6 +337,9 @@ Native Windows builds are available in Releases.
 <br/>
 
 <h2>🧱 Security</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🧱%20Security%20Measures&fontSize=16&animation=twinkling" alt="Security Header" />
+</p>
 
 - Local data is kept strictly on-device.
 - Network exposure is minimized.
@@ -330,6 +350,9 @@ Native Windows builds are available in Releases.
 <br/>
 
 <h2>⚡ Performance</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=⚡%20Performance&fontSize=16&animation=twinkling" alt="Performance Header" />
+</p>
 
 <table>
   <tr>
@@ -365,6 +388,9 @@ Built for responsive, modern UI behavior.
 <br/>
 
 <h2>🧾 Changelog</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🧾%20Changelog&fontSize=16&animation=twinkling" alt="Changelog Header" />
+</p>
 
 - **v1.0.0** — Initial repository structure.
 - **v1.1.0** — Dashboard and badge improvements.
@@ -374,6 +400,9 @@ Built for responsive, modern UI behavior.
 <br/>
 
 <h2>🗺 Roadmap</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🗺%20Roadmap&fontSize=16&animation=twinkling" alt="Roadmap Header" />
+</p>
 
 - [x] Multi-platform repository structure.
 - [x] Privacy-first positioning.
@@ -389,6 +418,9 @@ Built for responsive, modern UI behavior.
 <br/>
 
 <h2>❓ FAQ</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=❓%20Frequently%20Asked%20Questions&fontSize=16&animation=twinkling" alt="FAQ Header" />
+</p>
 
 <details><summary><strong>Are all apps free?</strong></summary>Yes, all applications are completely free.</details>
 <details><summary><strong>Is there a download limit?</strong></summary>No, there is no download limit.</details>
@@ -401,6 +433,9 @@ Built for responsive, modern UI behavior.
 <br/>
 
 <h2>🗂 Repository Structure</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🗂%20Repository%20Structure&fontSize=16&animation=twinkling" alt="Structure Header" />
+</p>
 
 ```bash
 Flax_Apps/
