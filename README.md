@@ -1,7 +1,7 @@
 <!--
   FLAXIXY BOY · Official Application Repository
   Premium, modern, responsive README.md
-  Updated with Dynamic Shields.io Badges for real-time accuracy
+  Repository: flaxixyboy/Flax_Apps
 -->
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="#download-center"><img src="https://img.shields.io/badge/Download%20Now-Explore%20Apps-0ea5e9?style=for-the-badge&logo=rocket&logoColor=ffffff" alt="Download Now" /></a>
-  <a href="https://github.com/FlaxixyBoy/FlaxixyBoy-Apps/releases"><img src="https://img.shields.io/badge/View%20Releases-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=ffffff" alt="View Releases" /></a>
+  <a href="https://github.com/flaxixyboy/Flax_Apps/releases"><img src="https://img.shields.io/badge/View%20Releases-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=ffffff" alt="View Releases" /></a>
   <a href="#documentation"><img src="https://img.shields.io/badge/Documentation-Read%20More-22c55e?style=for-the-badge&logo=readthedocs&logoColor=ffffff" alt="Documentation" /></a>
 </p>
 
@@ -36,13 +36,13 @@
   <img src="https://img.shields.io/badge/Android-Supported-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-Supported-000000?style=for-the-badge&logo=apple&logoColor=ffffff" alt="iOS" />
   <img src="https://img.shields.io/badge/Windows-Supported-0078d4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows" />
-  <img src="https://img.shields.io/github/stars/FlaxixyBoy/FlaxixyBoy-Apps?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/FlaxixyBoy/FlaxixyBoy-Apps?style=for-the-badge&logo=github&label=Forks&color=10b981" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/FlaxixyBoy/FlaxixyBoy-Apps?style=for-the-badge&logo=github&label=Issues&color=f97316" alt="Issues" />
+  <img src="https://img.shields.io/github/stars/flaxixyboy/Flax_Apps?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/flaxixyboy/Flax_Apps?style=for-the-badge&logo=github&label=Forks&color=10b981" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/flaxixyboy/Flax_Apps?style=for-the-badge&logo=github&label=Issues&color=f97316" alt="Issues" />
   <img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=book&logoColor=ffffff" alt="License" />
-  <img src="https://img.shields.io/github/v/release/FlaxixyBoy/FlaxixyBoy-Apps?label=Version&color=a855f7&style=for-the-badge&logo=semver&logoColor=ffffff" alt="Version" />
-  <img src="https://img.shields.io/github/downloads/FlaxixyBoy/FlaxixyBoy-Apps/total?label=Downloads&color=ef4444&style=for-the-badge&logo=download&logoColor=ffffff" alt="Downloads" />
-  <img src="https://komarev.com/ghpvc?username=FlaxixyBoy&repo=FlaxixyBoy-Apps&color=14b8a6&style=for-the-badge" alt="Visitors" />
+  <img src="https://img.shields.io/github/v/release/flaxixyboy/Flax_Apps?label=Version&color=a855f7&style=for-the-badge&logo=semver&logoColor=ffffff" alt="Version" />
+  <img src="https://img.shields.io/github/downloads/flaxixyboy/Flax_Apps/total?label=Downloads&color=ef4444&style=for-the-badge&logo=download&logoColor=ffffff" alt="Downloads" />
+  <img src="https://komarev.com/ghpvc?username=flaxixyboy&repo=Flax_Apps&color=14b8a6&style=for-the-badge" alt="Visitors" />
 </p>
 
 <br/>
@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="#download-center"><img src="https://img.shields.io/badge/⬇%20Download%20Now-All%20Platforms-0ea5e9?style=for-the-badge&logo=download&logoColor=ffffff" alt="Download Now" /></a>
-  <a href="https://github.com/FlaxixyBoy/FlaxixyBoy-Apps/releases/latest"><img src="https://img.shields.io/badge/📦%20View%20Releases-Latest-6366f1?style=for-the-badge&logo=github&logoColor=ffffff" alt="Releases" /></a>
+  <a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/📦%20View%20Releases-Latest-6366f1?style=for-the-badge&logo=github&logoColor=ffffff" alt="Releases" /></a>
   <a href="#documentation"><img src="https://img.shields.io/badge/📚%20Documentation-Open-22c55e?style=for-the-badge&logo=readthedocs&logoColor=ffffff" alt="Docs" /></a>
 </p>
 
@@ -70,34 +70,34 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:1d4ed8&fontColor=ffffff&text=📦%20Total%20Releases&fontSize=20&animation=twinkling" alt="Total Apps Header" /><br/>
-      <img src="https://img.shields.io/github/release-count/FlaxixyBoy/FlaxixyBoy-Apps?label=Value&color=0ea5e9&style=for-the-badge&logo=github" alt="Total Releases Value" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:1d4ed8&fontColor=ffffff&text=📦%20Total%20Releases&fontSize=20&animation=twinkling" alt="Total Releases Header" /><br/>
+      <img src="https://img.shields.io/github/release-count/flaxixyboy/Flax_Apps?label=Value&color=0ea5e9&style=for-the-badge&logo=github" alt="Total Releases Value" />
     </td>
     <td align="center" width="25%">
       <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:2563eb&fontColor=ffffff&text=⬇%20Total%20Downloads&fontSize=20&animation=twinkling" alt="Total Downloads Header" /><br/>
-      <img src="https://img.shields.io/github/downloads/FlaxixyBoy/FlaxixyBoy-Apps/total?label=Value&color=22c55e&style=for-the-badge&logo=download" alt="Total Downloads Value" />
+      <img src="https://img.shields.io/github/downloads/flaxixyboy/Flax_Apps/total?label=Value&color=22c55e&style=for-the-badge&logo=download" alt="Total Downloads Value" />
     </td>
     <td align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:7c3aed&fontColor=ffffff&text=🆕%20Latest%20Version&fontSize=18&animation=twinkling" alt="Latest App Header" /><br/>
-      <img src="https://img.shields.io/github/v/release/FlaxixyBoy/FlaxixyBoy-Apps?label=Value&color=a855f7&style=for-the-badge&logo=semver" alt="Latest Version Value" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:7c3aed&fontColor=ffffff&text=🆕%20Latest%20Version&fontSize=18&animation=twinkling" alt="Latest Version Header" /><br/>
+      <img src="https://img.shields.io/github/v/release/flaxixyboy/Flax_Apps?label=Value&color=a855f7&style=for-the-badge&logo=semver" alt="Latest Version Value" />
     </td>
     <td align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:ec4899&fontColor=ffffff&text=📅%20Last%20Updated&fontSize=20&animation=twinkling" alt="Latest Version Header" /><br/>
-      <img src="https://img.shields.io/github/last-commit/FlaxixyBoy/FlaxixyBoy-Apps?label=Value&color=f97316&style=for-the-badge&logo=calendar" alt="Last Updated Value" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:ec4899&fontColor=ffffff&text=📅%20Last%20Updated&fontSize=20&animation=twinkling" alt="Last Updated Header" /><br/>
+      <img src="https://img.shields.io/github/last-commit/flaxixyboy/Flax_Apps?label=Value&color=f97316&style=for-the-badge&logo=calendar" alt="Last Updated Value" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:14b8a6&fontColor=ffffff&text=⭐%20Repository%20Stars&fontSize=18&animation=twinkling" alt="Release Date Header" /><br/>
-      <img src="https://img.shields.io/github/stars/FlaxixyBoy/FlaxixyBoy-Apps?style=for-the-badge&logo=github&label=Value" alt="Repository Stars" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:14b8a6&fontColor=ffffff&text=⭐%20Repository%20Stars&fontSize=18&animation=twinkling" alt="Stars Header" /><br/>
+      <img src="https://img.shields.io/github/stars/flaxixyboy/Flax_Apps?style=for-the-badge&logo=github&label=Value" alt="Repository Stars" />
     </td>
     <td align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:22c55e&fontColor=ffffff&text=🍴%20Repository%20Forks&fontSize=20&animation=twinkling" alt="Stars Header" /><br/>
-      <img src="https://img.shields.io/github/forks/FlaxixyBoy/FlaxixyBoy-Apps?style=for-the-badge&logo=github&label=Value" alt="Repository Forks" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:22c55e&fontColor=ffffff&text=🍴%20Repository%20Forks&fontSize=20&animation=twinkling" alt="Forks Header" /><br/>
+      <img src="https://img.shields.io/github/forks/flaxixyboy/Flax_Apps?style=for-the-badge&logo=github&label=Value" alt="Repository Forks" />
     </td>
     <td align="center">
       <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:f59e0b&fontColor=ffffff&text=👀%20Profile%20Visitors&fontSize=20&animation=twinkling" alt="Visitors Header" /><br/>
-      <img src="https://komarev.com/ghpvc?username=FlaxixyBoy&repo=FlaxixyBoy-Apps&color=f59e0b&style=for-the-badge" alt="Visitors Value" />
+      <img src="https://komarev.com/ghpvc?username=flaxixyboy&repo=Flax_Apps&color=f59e0b&style=for-the-badge" alt="Visitors Value" />
     </td>
     <td align="center">
       <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f172a,100:ef4444&fontColor=ffffff&text=🔄%20Auto%20Updated&fontSize=20&animation=twinkling" alt="Auto Updated Header" /><br/>
@@ -109,7 +109,7 @@
 <details>
 <summary><strong>🔄 Dashboard Update System</strong></summary>
 
-- The badges above are **100% Dynamic** and fetch real-time data directly from GitHub's API.
+- The badges above are **100% Dynamic** and fetch real-time data directly from GitHub's API for `flaxixyboy/Flax_Apps`.
 - No manual editing or GitHub Actions are required for these values to stay accurate.
 - `Total Downloads`, `Latest Version`, `Last Updated`, `Stars`, and `Forks` update automatically.
 - Visitor count is tracked reliably via `komarev.com/ghpvc`.
@@ -234,7 +234,7 @@ We believe modern software should be beautiful, fast, and respectful of users. T
 <h2>📥 Download Center</h2>
 
 <p align="center">
-  <a href="https://github.com/FlaxixyBoy/FlaxixyBoy-Apps/releases/latest"><img src="https://img.shields.io/badge/Download%20Latest-All%20Platforms-0ea5e9?style=for-the-badge&logo=github&logoColor=ffffff" alt="Download Latest" /></a>
+  <a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/Download%20Latest-All%20Platforms-0ea5e9?style=for-the-badge&logo=github&logoColor=ffffff" alt="Download Latest" /></a>
 </p>
 
 <table>
@@ -243,7 +243,7 @@ We believe modern software should be beautiful, fast, and respectful of users. T
 
 ### 🤖 Android
 
-<a href="https://github.com/FlaxixyBoy/FlaxixyBoy-Apps/releases/latest"><img src="https://img.shields.io/badge/Download-APK-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff" alt="Android APK" /></a>
+<a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/Download-APK-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff" alt="Android APK" /></a>
 
 Free Android builds available in Releases.
 
@@ -261,7 +261,7 @@ Install through the documented iOS distribution method.
 
 ### 🪟 Windows
 
-<a href="https://github.com/FlaxixyBoy/FlaxixyBoy-Apps/releases/latest"><img src="https://img.shields.io/badge/Download-EXE%2FMSIX-0078d4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows" /></a>
+<a href="https://github.com/flaxixyboy/Flax_Apps/releases/latest"><img src="https://img.shields.io/badge/Download-EXE%2FMSIX-0078d4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows" /></a>
 
 Native Windows builds are available in Releases.
 
@@ -291,7 +291,7 @@ Native Windows builds are available in Releases.
 <h2>🧩 Installation</h2>
 
 <h3 id="installation-android">🤖 Android</h3>
-1. Open the [Releases page](https://github.com/FlaxixyBoy/FlaxixyBoy-Apps/releases/latest).
+1. Open the [Releases page](https://github.com/flaxixyboy/Flax_Apps/releases/latest).
 2. Download the latest APK.
 3. Enable "Install from unknown sources" if needed.
 4. Install and launch the app.
@@ -302,7 +302,7 @@ Native Windows builds are available in Releases.
 3. Launch the app and complete first-time setup.
 
 <h3 id="installation-windows">🪟 Windows</h3>
-1. Open the [latest release](https://github.com/FlaxixyBoy/FlaxixyBoy-Apps/releases/latest).
+1. Open the [latest release](https://github.com/flaxixyboy/Flax_Apps/releases/latest).
 2. Download the EXE, MSIX, or ZIP package.
 3. Run the installer or extract the portable build.
 4. Launch the app from your desktop or Start menu.
@@ -403,7 +403,7 @@ Built for responsive, modern UI behavior.
 <h2>🗂 Repository Structure</h2>
 
 ```bash
-FlaxixyBoy-Apps/
+Flax_Apps/
 ├─ .github/
 │  ├─ workflows/
 │  └─ ISSUE_TEMPLATE/
