@@ -122,7 +122,6 @@
     <th>🏷 Latest Version</th>
     <th>📅 Last Release Date</th>
     <th>⭐ Repository Stars</th>
-    <th>👀 Visitors</th>
   </tr>
   <tr>
     <td align="center">
