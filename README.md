@@ -136,7 +136,6 @@
     </td>
     <td align="center">
       <a href="https://shields-io-visitor-counter.herokuapp.com/badge?page=FlaxixyBoy.FlaxixyBoy-Apps" target="_blank">
-        <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=FlaxixyBoy.FlaxixyBoy-Apps" alt="Visitor Counter Badge" />
       </a>
     </td>
   </tr>
