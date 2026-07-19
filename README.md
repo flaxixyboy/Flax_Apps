@@ -797,10 +797,10 @@ pie title Platform Distribution
 ```mermaid
 timeline
     title Releases Over Time
-    2024-01 : Initial Android apps
-    2024-06 : iOS and Windows support
-    2025-02 : Dashboard and automation
-    2025-11 : Expanded privacy tooling
+    2026-07-10 : Initial Android apps
+    2026-07-13 : iOS and Windows support
+    2026-07-18 : Dashboard and automation
+    2026-07-19 : Expanded privacy tooling
 ```
 
 > Actual charts can be generated from workflow‑exported CSVs and embedded into documentation or external dashboards.
