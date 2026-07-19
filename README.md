@@ -279,26 +279,6 @@ We believe modern software should be beautiful, fast, and respectful of users. T
 
 <br/>
 
-<h2>🖼 Screenshots Gallery</h2>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🖼%20App%20Screenshots&fontSize=16&animation=twinkling" alt="Screenshots Header" />
-</p>
-
-<table>
-  <tr>
-    <td><img src="https://via.placeholder.com/360x200/0f172a/ffffff?text=Screenshot+01" alt="Screenshot 01" /></td>
-    <td><img src="https://via.placeholder.com/360x200/0f172a/ffffff?text=Screenshot+02" alt="Screenshot 02" /></td>
-    <td><img src="https://via.placeholder.com/360x200/0f172a/ffffff?text=Screenshot+03" alt="Screenshot 03" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/360x200/0f172a/ffffff?text=Screenshot+04" alt="Screenshot 04" /></td>
-    <td><img src="https://via.placeholder.com/360x200/0f172a/ffffff?text=Screenshot+05" alt="Screenshot 05" /></td>
-    <td><img src="https://via.placeholder.com/360x200/0f172a/ffffff?text=Screenshot+06" alt="Screenshot 06" /></td>
-  </tr>
-</table>
-
-<br/>
-
 <h2>🧩 Installation</h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:0f172a,100:4f46e5&fontColor=ffffff&text=🧩%20Installation%20Guide&fontSize=16&animation=twinkling" alt="Installation Header" />
