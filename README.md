@@ -1,36 +1,3 @@
-<!--
-  FLAXIXY BOY · Official Application Repository
-  Modern, premium, responsive README.md with animated header
--->
-
-<!-- ========================================================= -->
-<!-- Animated Header · Capsule Render Banner                   -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <!-- Animated Capsule Render header (waving gradient) -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Flaxixy%20Boy%20Apps&fontSize=52&fontAlignY=40&fontAlign=50&fontColor=ffffff&desc=Free%20Android%2C%20iOS%20%26%20Windows%20Applications&descAlign=50&descAlignY=65"
-    alt="Flaxixy Boy - Official Application Repository"
-  />
-</p>
-
-<br/>
-
-<!-- Tiny animated underline using Capsule Render again (sub‑banner) -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=40&color=1e293b&text=Privacy%20%E2%9A%A0%EF%B8%8F%20Performance%20%E2%9A%A0%EF%B8%8F%20Freedom&fontSize=16&fontAlign=50&fontColor=ffffff"
-    alt="Privacy · Performance · Freedom"
-  />
-</p>
-
-<br/>
-
-<!-- ========================================================= -->
-<!-- Company Branding                                          -->
-<!-- ========================================================= -->
-
 <h1 align="center">Flaxixy Boy</h1>
 
 <p align="center">
