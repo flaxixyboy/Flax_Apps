@@ -376,43 +376,6 @@ We deliberately exclude remote telemetry, analytics SDKs, and server‑side prof
 <br/>
 
 <!-- ========================================================= -->
-<!-- Screenshots Gallery                                       -->
-<!-- ========================================================= -->
-
-## 🖼 Screenshots Gallery
-
-> Visual previews of Flaxixy Boy applications across Android, iOS, and Windows.
-
-<p align="center">
-  <em>Click an image to view it in full resolution (once populated with actual screenshots).</em>
-</p>
-
-<table align="center">
-  <tr>
-    <td><img src="https://via.placeholder.com/360x200?text=Android+Home+Screen+1" alt="Android Screenshot 1" /></td>
-    <td><img src="https://via.placeholder.com/360x200?text=Android+Settings+2" alt="Android Screenshot 2" /></td>
-    <td><img src="https://via.placeholder.com/360x200?text=Android+Details+3" alt="Android Screenshot 3" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/360x200?text=iOS+Home+Screen+4" alt="iOS Screenshot 4" /></td>
-    <td><img src="https://via.placeholder.com/360x200?text=iOS+Settings+5" alt="iOS Screenshot 5" /></td>
-    <td><img src="https://via.placeholder.com/360x200?text=iOS+Details+6" alt="iOS Screenshot 6" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/360x200?text=Windows+Dashboard+7" alt="Windows Screenshot 7" /></td>
-    <td><img src="https://via.placeholder.com/360x200?text=Windows+Settings+8" alt="Windows Screenshot 8" /></td>
-    <td><img src="https://via.placeholder.com/360x200?text=Windows+Details+9" alt="Windows Screenshot 9" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/360x200?text=Multi+Platform+View+10" alt="Multi Platform Screenshot 10" /></td>
-    <td><img src="https://via.placeholder.com/360x200?text=Dark+Theme+11" alt="Dark Theme Screenshot 11" /></td>
-    <td><img src="https://via.placeholder.com/360x200?text=Analytics-Free+12" alt="Analytics Free Screenshot 12" /></td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========================================================= -->
 <!-- Installation                                              -->
 <!-- ========================================================= -->
 
