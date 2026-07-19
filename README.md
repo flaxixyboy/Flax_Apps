@@ -43,7 +43,6 @@
   <!-- Downloads & Visitors -->
   <img src="https://img.shields.io/badge/Downloads-Unlimited-ef4444?style=for-the-badge&logo=download&logoColor=ffffff" alt="Unlimited Downloads Badge" />
   <a href="https://shields-io-visitor-counter.herokuapp.com/badge?page=FlaxixyBoy.FlaxixyBoy-Apps" target="_blank">
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=FlaxixyBoy.FlaxixyBoy-Apps" alt="Visitor Counter" />
   </a>
 </p>
 
