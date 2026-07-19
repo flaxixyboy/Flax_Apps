@@ -1,8 +1,6 @@
-<div align="center">
-
 # 🚀 Flaxixy Boy
 
-### Official Application Repository
+> **Official Application Repository**
 
 Free • Secure • Fast • Unlimited Downloads
 
@@ -10,156 +8,74 @@ Free • Secure • Fast • Unlimited Downloads
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-<br>
-
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPOSITORY?style=flat-square)
-![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPOSITORY?style=flat-square)
-![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPOSITORY?style=flat-square)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPOSITORY?style=flat-square)
-
-</div>
-
 ---
 
-# 📱 About
+# About
 
-Welcome to the **official Flaxixy Boy App Repository**.
+Welcome to the **Flaxixy Boy** official application repository.
 
-This repository contains applications for:
+This repository publishes applications for:
 
 - 🤖 Android
 - 🍎 iOS
 - 🪟 Windows
 
-Every application is:
+## Features
 
-- ✅ Free
-- ✅ Unlimited Downloads
-- ✅ Regularly Updated
-- ✅ Easy to Install
+- Unlimited downloads
+- Free forever
+- Regular updates
+- SQL-based applications
+- No app data sent to our servers
+- Clean & secure experience
 
----
+## Privacy
 
-# 📊 Repository Dashboard
+- No personal data collection
+- No application telemetry
+- SQL-based local data handling
+- Your data stays under your control
 
-| Status | Information |
-|---------|-------------|
-| 📦 Total Apps | **Auto Update (GitHub Actions)** |
-| ⬇️ Total Downloads | **Auto Update (GitHub Actions)** |
-| 🆕 Latest Release | **Auto Update (GitHub Actions)** |
-| 🔄 Last Updated | **Auto Update (GitHub Actions)** |
+## Repository Dashboard
 
----
+| Item | Status |
+|------|--------|
+| 📦 Total Apps | GitHub Actions Ready |
+| ⬇️ Total Downloads | GitHub Actions Ready |
+| 🆕 Latest Release | GitHub Actions Ready |
 
-# ✨ Features
+## Download
 
-- 🚀 Unlimited Downloads
-- 🔄 Latest Releases
-- 📱 Cross Platform
-- ⚡ Fast Download
-- 🔒 Privacy Focused
-- 💯 Completely Free
-- 🌍 Worldwide Access
-- 🛠️ Easy Installation
+Visit the **Releases** tab to download the latest versions.
 
----
+## Supported Platforms
 
-# 🔒 Privacy Policy
+| Platform | Status |
+|----------|--------|
+| Android | ✅ |
+| iOS | ✅ |
+| Windows | ✅ |
 
-Your privacy comes first.
+## Connect
 
-- ❌ No personal information is collected.
-- ❌ No application data is uploaded to our server.
-- ✅ Applications use SQL-based local databases.
-- ✅ Your data stays on your device.
+Replace the links below with your own.
 
----
-
-# 📥 Download
-
-All applications are available in the **Releases** section.
-
-Choose your platform and download the latest version.
-
-| Platform | Availability |
-|----------|--------------|
-| 🤖 Android | ✅ |
-| 🍎 iOS | ✅ |
-| 🪟 Windows | ✅ |
+- GitHub: https://github.com/YOUR_USERNAME
+- Facebook: https://facebook.com/YOUR_PAGE
+- Telegram: https://t.me/YOUR_CHANNEL
+- Discord: https://discord.gg/YOUR_SERVER
+- YouTube: https://youtube.com/@YOUR_CHANNEL
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Releases/
-│
-├── Android/
-├── iOS/
-└── Windows/
-```
-
----
-
-# ❤️ Why Flaxixy Boy?
-
-- 🛡️ Secure Applications
-- ⚡ Fast Downloads
-- 📦 Latest Versions
-- 🔄 Frequent Updates
-- 🌎 Open Repository
-- 💯 Unlimited Access
-
----
-
-# 🌐 Connect With Us
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://facebook.com/YOUR_PAGE">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://t.me/YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-<a href="https://discord.gg/YOUR_SERVER">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-<a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</p>
-
----
-
-# ⭐ Support
+## Support
 
 If you like this repository:
 
-⭐ Star the repository
-
-🍴 Fork the repository
-
-📢 Share with your friends
-
-❤️ Support Flaxixy Boy
+- ⭐ Star it
+- 🍴 Fork it
+- 📢 Share it
 
 ---
 
-<div align="center">
-
-## 🚀 Flaxixy Boy
-
-### Free Apps • Unlimited Downloads • Secure Experience
-
 Made with ❤️ by **Flaxixy Boy**
-
-</div>
